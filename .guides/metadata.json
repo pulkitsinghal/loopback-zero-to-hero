@@ -38,7 +38,14 @@
   {
    "id": "361f303c-f9d3-3b65-c9ed-4e5c6d29d162",
    "title": "Build a better mousetrap",
-   "files": [],
+   "files": [
+    {
+     "path": "loopback-zero-to-hero/server/datasources.json",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Build-a-better-mousetrap-361f.md"
@@ -46,7 +53,14 @@
   {
    "id": "c39a929-7af1-9b7b-28e2-56fce4e27fe2",
    "title": "The abyss stares back",
-   "files": [],
+   "files": [
+    {
+     "path": "loopback-zero-to-hero/db.json",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/The-abyss-stares-back-c39a.md"
