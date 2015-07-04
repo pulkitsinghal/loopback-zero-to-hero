@@ -1,0 +1,57 @@
+{
+ "sections": [
+  {
+   "id": "d15a6d56-81f5-4f51-a8ed-d2eaffc338b1",
+   "title": "Setup a loopback project",
+   "files": [
+    {
+     "path": "#terminal: cd ~/workspace",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Setup-a-loopback-project-d15a.md"
+  },
+  {
+   "id": "d961548f-efcb-407e-a49a-2655471a318a",
+   "title": "Lockdown",
+   "files": [
+    {
+     "path": "#terminal: cd ~/workspace/loopback-zero-to-hero",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "loopback-zero-to-hero/package.json",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lockdown-d961.md"
+  },
+  {
+   "id": "361f303c-f9d3-3b65-c9ed-4e5c6d29d162",
+   "title": "Build a better mousetrap",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Build-a-better-mousetrap-361f.md"
+  },
+  {
+   "id": "c39a929-7af1-9b7b-28e2-56fce4e27fe2",
+   "title": "The abyss stares back",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-abyss-stares-back-c39a.md"
+  }
+ ],
+ "theme": "charcoal",
+ "scripts": []
+}
