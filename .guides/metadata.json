@@ -64,6 +64,81 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/The-abyss-stares-back-c39a.md"
+  },
+  {
+   "id": "461030-75b9-ea26-6338-6181d48b30da",
+   "title": "Built-in models",
+   "files": [
+    {
+     "path": "loopback-zero-to-hero/node_modules/loopback/common/models/user.json",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Built-in-models-4610.md"
+  },
+  {
+   "id": "38858405-78a7-2d16-50fa-114cb8608132",
+   "title": "Extending built-in models",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extending-built-in-models-3885.md"
+  },
+  {
+   "id": "dd7af974-eeb4-a3c1-d5af-adf7a72b74cc",
+   "title": "Understanding UserModel",
+   "files": [
+    {
+     "path": "loopback-zero-to-hero/common/models/user-model.js",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "loopback-zero-to-hero/common/models/user-model.json",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Understanding-UserModel-dd7a.md"
+  },
+  {
+   "id": "a3a29e0-b80-de41-40d5-e1ad8fa0a8c",
+   "title": "Boot Scripts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Boot-Scripts-a3a2.md"
+  },
+  {
+   "id": "191ef1ad-948d-a7cf-27da-be64eb004015",
+   "title": "Promises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-11-191e.md"
+  },
+  {
+   "id": "87ba465d-9a15-4893-6fa9-42455e477c61",
+   "title": "Find roles for current user",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Find-roles-for-current-user-87ba.md"
+  },
+  {
+   "id": "da9263df-ed70-2348-987c-34d26c161d10",
+   "title": "Misc. / Background",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Misc----Background-da92.md"
   }
  ],
  "theme": "charcoal",
