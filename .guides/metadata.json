@@ -1,6 +1,14 @@
 {
  "sections": [
   {
+   "id": "da9263df-ed70-2348-987c-34d26c161d10",
+   "title": "Misc. / Background",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Misc----Background-da92.md"
+  },
+  {
    "id": "d15a6d56-81f5-4f51-a8ed-d2eaffc338b1",
    "title": "Setup a loopback project",
    "files": [
@@ -122,7 +130,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-11-191e.md"
+   "content-file": ".guides/content/Promises-191e.md"
   },
   {
    "id": "87ba465d-9a15-4893-6fa9-42455e477c61",
@@ -133,12 +141,20 @@
    "content-file": ".guides/content/Find-roles-for-current-user-87ba.md"
   },
   {
-   "id": "da9263df-ed70-2348-987c-34d26c161d10",
-   "title": "Misc. / Background",
+   "id": "221d3b42-cb85-10ea-8769-7280841478e",
+   "title": "Loopback Console",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Misc----Background-da92.md"
+   "content-file": ".guides/content/Loopback-Console-221d.md"
+  },
+  {
+   "id": "138f26fe-3db2-c951-cfe4-3985e85c9ee5",
+   "title": "Current User",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Current-User-and-Remote-Methods-138f.md"
   }
  ],
  "theme": "charcoal",

@@ -1,3 +1,9 @@
+|||info
+# info
+
+You may skip this section, its is not directly related to learning loopback, its purely for the super curious.
+|||
+
 ### How was this VM prepared for training?
 
 - Base Stack: `CODIO-CERTIFIED / Node.JS + nvm`

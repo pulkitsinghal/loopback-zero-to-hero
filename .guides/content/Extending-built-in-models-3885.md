@@ -39,8 +39,8 @@ Enter an empty property name when done.
 ```
 Leave the last prompt (`? Property name:`) empty and hit enter to finish model creation.
 
-|||guidance
-# Guidance
+|||info
+# Info
 
 Hit the refresh symbol at the bottom right of the nav tree panel to see the new `common/models` directory and its contents listed.
 |||
