@@ -4,6 +4,12 @@
 You may skip this section, it is not directly related to learning LoopBack, its purely for the super curious.
 |||
 
+### How to provide feedback?
+
+- Issues can be reported here:
+https://github.com/pulkitsinghal/loopback-zero-to-hero/issues
+- Conversations and discussions should be directed to the gitter chat room: https://gitter.im/pulkitsinghal/loopback-zero-to-hero
+
 ### How was this VM prepared for training?
 
 - Base Stack: `CODIO-CERTIFIED / Node.JS + nvm`
