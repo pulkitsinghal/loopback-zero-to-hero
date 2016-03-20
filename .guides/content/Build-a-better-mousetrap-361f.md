@@ -18,7 +18,7 @@ Read official docs on [Database Connectors](http://docs.strongloop.com/display/p
 |||
 
 1. Using a file to back the memory DB has significant advantages.
-2. We can look at what's going on behind the scenes by simply peekign into a json file
+2. We can look at what's going on behind the scenes by simply peeking into a json file
 3. We don't lose all our data on every restart.
 4. So let's edit `server/datasources.json` by adding a line `"file": "db.json"` to it:
     ```
