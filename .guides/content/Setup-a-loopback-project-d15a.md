@@ -14,7 +14,7 @@ It will just a short while to finish.
 
 ### What just happened?
 
-- A minimal set of files was placed in the `loopback-zero-to-hero` directory to facilitate your project development.
+- A minimal set of files was placed in the `loopback-zero-to-hero` directory to facilitate your project development. And `npm install` was auto run as part of project setup.
 
 - Let's take the time to understand our directory structure:
     ```
